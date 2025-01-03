@@ -1,0 +1,10 @@
+/* mycustom.css */
+
+/* Ensure the post content is left-aligned */
+.post-content.keep-markdown-body {
+    text-align: left !important;
+}
+/* 修改首屏文字字体大小 */
+:root {
+    --first-screen-font-size: 40px; /* 根据需求调整大小 */
+}
